@@ -1,5 +1,8 @@
 # Testando o git
 
-Testando o git em grupo --- criação da branch develop
+Alunos
 
-Digite seu texto aqui...
+Nome: Joao
+Estado: MG
+Idade: 27
+Área de interesse: Front-end
