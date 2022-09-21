@@ -1,9 +1,5 @@
 # Testando o git
 
-Criação da branch feature/teste
+teste teste teste teste 
 
-Acescentando mais coisa na feature/teste
-
-Digite seu texto aqui...
-
-Testando...
+teste teste teste teste 
