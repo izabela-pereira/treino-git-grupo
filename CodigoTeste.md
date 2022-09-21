@@ -1,8 +1,7 @@
 # Testando o git
 
-Testando o git em grupo --- criação da branch develop
+Nome: Joao
+ Estudando Hackathon Decola
 
-Sou o João e estou testando uma branch feature em grupo.
-
-
-#Fazendo modificação para testar brach.
+ Testando Git e Github
+ Fazendo exercicios em grupo
