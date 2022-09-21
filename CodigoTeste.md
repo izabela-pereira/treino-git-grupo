@@ -1,9 +1,18 @@
 # Testando o git
 
-Criação da branch feature/teste
+Alunos
 
-Acescentando mais coisa na feature/teste
+Nome: Joao
+
+Estado: MG
+
+Idade: 27
+
+Área de interesse: Front-end
 
 Digite seu texto aqui...
 
 Testando...
+
+Adicionando mais texto pra testar...
+
