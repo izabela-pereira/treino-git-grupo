@@ -1,7 +1,5 @@
 # Testando o git
 
-Criação da branch feature/teste
-
-Acescentando mais coisa na feature/teste
+Testando o git em grupo --- criação da branch develop
 
 Digite seu texto aqui...
